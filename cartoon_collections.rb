@@ -1,4 +1,3 @@
-dwarves = ["Doc", "Dopey", "Bashful", "Grumpy"]
 
 def roll_call_dwarves(array)
   i = 0 
